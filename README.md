@@ -134,9 +134,13 @@ Computer vision system for detecting helmet usage.
 ## 📊 GitHub Activity
 
 <p align="center">
+<a href="https://github.com/SachinNme">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinNme&theme=github-dark&hide_border=true" />
+</a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinNme&theme=github-compact&hide_border=true&area=true" />
-
+<p align="center">
+<b>🔥 Keep building. Keep contributing. Keep growing.</b>
 </p>
 
 ---
@@ -195,3 +199,4 @@ Create useful products.
          SHIP
           ↓
         SCALE
+```
