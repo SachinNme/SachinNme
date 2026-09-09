@@ -22,10 +22,8 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publish snake animation
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
-          PUBLISH_BRANCH: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
