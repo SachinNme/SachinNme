@@ -70,7 +70,7 @@ Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌱 SproutSage
 
@@ -78,41 +78,81 @@ AI-powered plant identification and gardening assistant.
 
 **Tech:** AI • React • Vite • Computer Vision
 
+<a href="https://github.com/SachinNme/Sproutsage">🔗 View Repository</a>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ HoneyTrap AI
+### 🤖 Trading Bot
 
-AI-powered honeytoken-based active defense and threat detection system.
+A dedicated repository exploring automated trading and software development.
 
-**Tech:** AI • Cybersecurity • Threat Detection
+**Tech:** Python • Automation • AI/ML
+
+<a href="https://github.com/SachinNme/Trading-bot">🔗 View Repository</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 AI Learning Tools
+### 🌐 Eventyay
 
-AI learning tools designed to support students with dyslexia.
+A large-scale software project repository focused on event-related development.
 
-**Tech:** NLP • ML • Image Processing • LLM
+**Tech:** Full Stack • Web Development
+
+<a href="https://github.com/SachinNme/eventyay">🔗 View Repository</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⛑️ Helmet Detection
+### 💜 She-Can-Foundation
 
-Computer vision system for detecting helmet usage.
+A project repository built around a social-impact initiative.
 
-**Tech:** Python • YOLO • Computer Vision
+**Tech:** Web Development • Software Development
+
+<a href="https://github.com/SachinNme/She-Can-Foundation">🔗 View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Doom2
+
+An interactive software project developed as part of the user's project portfolio.
+
+**Tech:** Software Development • Game Development
+
+<a href="https://github.com/SachinNme/Doom2">🔗 View Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Webreboot
+
+A web-development repository showcasing another part of the development portfolio.
+
+**Tech:** Web Development • Programming
+
+<a href="https://github.com/SachinNme/Webreboot">🔗 View Repository</a>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+<a href="https://github.com/SachinNme?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_Explore_All_Repositories-161B22?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
