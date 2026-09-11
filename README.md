@@ -195,6 +195,26 @@ A web-development repository showcasing another part of the development portfoli
 
 ---
 
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/SachinNme">
+<img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/SachinNme?tab=repositories">
+<img src="https://img.shields.io/badge/💼_View_My_Work-238636?style=for-the-badge" />
+</a>
+
+</p>
+
+<p align="center">
+<b>💬 Open to learning, building, collaborations, and interesting ideas.</b>
+</p>
+
+---
+
 ## 💡 My Developer Mindset
 
 <table>
